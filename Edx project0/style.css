@@ -1,0 +1,51 @@
+/*this is useful for google logo should be appear in center of the page*/
+.container{
+    text-align:center;
+    margin-top: 250px;
+}
+/*this is useful for logo must should be in height 100px and width in 300px*/
+.google-img{
+    height: 100px;
+    width: 300px;
+}
+/*this is present in the screenshot1*/
+.search{
+    width: 640px;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+/*this is present in screenshot2*/
+.search-bar{
+    width: 550px;
+    padding-top: 20px;
+    font-size: 18px;
+    border: none;
+    outline:none;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+/*this is present in screen shot3*/
+.search-icon{
+    position: relative;
+    height: 15px;
+    margin-top: 10px;
+    width: 15px;
+    margin-left: -40px;
+}
+/*it appears same as above*/
+.btn-container{
+    margin-top:2%;
+}
+/*this is present in screen shot*/
+.search-btn{
+    height: 40px;
+    border: none;
+    color: #646464;
+    background: #f2f2f2;
+}
+
+.search-btn:hover{
+    color:rgb(37, 37, 37);
+    border:1px solid lightgray;
+}
